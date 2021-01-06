@@ -1,0 +1,279 @@
+number,name,position,position_cod,V,G,A,R,RS,AG,AM,ES,FV,team,dots,yyss
+1,Berisha E.,Por,P,6.0,-1.0,,,,,,,5.0,Atalanta,36,2017-18
+21,Castagne T.,Dif,D,6.0,,,,,,,,6.0,Atalanta,36,2017-18
+8,Gosens R.,Dif,D,6.5,,,,,,,,6.5,Atalanta,36,2017-18
+3,Toloi R.,Dif,D,7.0,,,,,,1.0,,6.5,Atalanta,36,2017-18
+6,Palomino J.,Dif,D,6.5,,,,,,,,6.5,Atalanta,36,2017-18
+5,Masiello A.,Dif,D,6.0,,,,,,1.0,,5.5,Atalanta,36,2017-18
+11,Freuler R.,Cen,C,7.0,,,,,,,,7.0,Atalanta,36,2017-18
+15,De Roon M.,Cen,C,7.0,,1.0,,,,,,8.0,Atalanta,36,2017-18
+4,Cristante B.,Cen,C,7.0,,,,,,,,7.0,Atalanta,36,2017-18
+10,Gomez A.,Tre,T,7.0,,,,,,,,7.0,Atalanta,36,2017-18
+0,Barrow M.,Att,A,6.5,1.0,,,,,,,9.5,Atalanta,36,2017-18
+33,Hateboer H.,Dif,D,6.5,,,,,,,,6.5,Atalanta,36,2017-18
+72,Ilicic J.,Tre,T,7.0,,,,,,,,7.0,Atalanta,36,2017-18
+1,Puggioni C.,Por,P,6.5,-2.0,,,,,,,4.5,Benevento,36,2017-18
+23,Venuti L.,Dif,D,6.5,,,,,,,,6.5,Benevento,36,2017-18
+6,Djimsiti B.,Dif,D,6.5,,,,,,,,6.5,Benevento,36,2017-18
+18,Gyamfi B.,Dif,D,5.5,,,,,,,,5.5,Benevento,36,2017-18
+0,Sagna B.,Dif,D,6.0,,,,,,,,6.0,Benevento,36,2017-18
+3,Letizia G.,Dif,D,6.5,,,,,,,,6.5,Benevento,36,2017-18
+14,Viola N.,Cen,C,7.5,,,,,,,,7.5,Benevento,36,2017-18
+0,Sandro R.,Cen,C,7.0,,,,,,1.0,,6.5,Benevento,36,2017-18
+27,Parigini V.,Tre,T,6.0,,,,,,,,6.0,Benevento,36,2017-18
+9,Iemmello P.,Att,A,5.0,,,,,,,,5.0,Benevento,36,2017-18
+0,Diabate C.,Att,A,6.0,,,,,,,,6.0,Benevento,36,2017-18
+4,Del Pinto L.,Cen,C,6.0,,,,,,,,6.0,Benevento,36,2017-18
+11,Coda M.,Att,A,6.0,,,,,,,,6.0,Benevento,36,2017-18
+83,Mirante A.,Por,P,6.0,-3.0,,,,,,,3.0,Bologna,36,2017-18
+0,Romagnoli S.,Dif,D,5.5,,,,,,,,5.5,Bologna,36,2017-18
+6,De Maio S.,Dif,D,5.0,,,,,1.0,,,3.0,Bologna,36,2017-18
+0,Keita C.,Dif,D,5.0,,,,,,,,5.0,Bologna,36,2017-18
+4,Krafth E.,Dif,D,5.0,,,,,,,,5.0,Bologna,36,2017-18
+15,Mbaye I.,Dif,D,6.0,,,,,,,,6.0,Bologna,36,2017-18
+12,Crisetig L.,Cen,C,6.5,,,,,,1.0,,6.0,Bologna,36,2017-18
+2,Nagy A.,Cen,C,6.0,,,,,,,,6.0,Bologna,36,2017-18
+16,Poli A.,Cen,C,5.5,,,,,,1.0,,5.0,Bologna,36,2017-18
+9,Verdi S.,Tre,T,6.5,1.0,,1.0,,,,,10.0,Bologna,36,2017-18
+0,Avenatti F.,Att,A,5.0,,,,,,,,5.0,Bologna,36,2017-18
+35,Torosidis V.,Dif,D,5.0,,,,,,,,5.0,Bologna,36,2017-18
+24,Palacio R.,Tre,T,5.5,,,,,,1.0,,5.0,Bologna,36,2017-18
+10,Destro M.,Att,A,5.5,,,,,,,,5.5,Bologna,36,2017-18
+28,Cragno A.,Por,P,6.0,-1.0,,,,,,,5.0,Cagliari,36,2017-18
+3,Andreolli M.,Dif,D,6.0,,,,,,,,6.0,Cagliari,36,2017-18
+23,Ceppitelli L.,Dif,D,6.0,,,,,,1.0,,5.5,Cagliari,36,2017-18
+22,Lykogiannis C.,Dif,D,5.5,,,,,,1.0,,5.0,Cagliari,36,2017-18
+27,Deiola A.,Cen,C,5.5,,,,,,,,5.5,Cagliari,36,2017-18
+18,Barella N.,Cen,C,6.5,,,,,,1.0,,6.0,Cagliari,36,2017-18
+16,Farago P.,Cen,C,6.5,,,,,,,,6.5,Cagliari,36,2017-18
+20,Padoin S.,Cen,C,5.0,,,,,,,,5.0,Cagliari,36,2017-18
+21,Ionita A.,Cen,C,5.5,,,,,,1.0,,5.0,Cagliari,36,2017-18
+17,Farias D.,Tre,T,5.0,,,,,,,,5.0,Cagliari,36,2017-18
+29,Pavoletti L.,Att,A,5.5,,,,,,,,5.5,Cagliari,36,2017-18
+7,Cossu A.,Tre,T,,,,,,,,,,Cagliari,36,2017-18
+32,Han K.,Att,A,,,,,,,,,,Cagliari,36,2017-18
+25,Sau M.,Att,A,5.0,,,,,,,,5.0,Cagliari,36,2017-18
+70,Sorrentino S.,Por,P,6.5,-1.0,,,,,1.0,,5.0,Chievo,36,2017-18
+18,Gobbi M.,Dif,D,7.0,,2.0,,,,,,9.0,Chievo,36,2017-18
+40,Tomovic N.,Dif,D,6.0,,,,,,,,6.0,Chievo,36,2017-18
+3,Dainelli D.,Dif,D,7.0,,,,,,,,7.0,Chievo,36,2017-18
+29,Cacciatore F.,Dif,D,6.0,,,,,,,,6.0,Chievo,36,2017-18
+56,Hetemaj P.,Cen,C,6.5,,,,,,1.0,,6.0,Chievo,36,2017-18
+4,Rigoni N.,Cen,C,6.0,,,,,,1.0,,5.5,Chievo,36,2017-18
+8,Radovanovic I.,Cen,C,7.0,,,,,,1.0,,6.5,Chievo,36,2017-18
+15,Giaccherini E.,Tre,T,7.0,,,,,,,,7.0,Chievo,36,2017-18
+23,Birsa V.,Tre,T,8.0,1.0,,,,,,,11.5,Chievo,36,2017-18
+45,Inglese R.,Att,A,5.5,,,,,,,,5.5,Chievo,36,2017-18
+14,Bani M.,Dif,D,5.0,,,,,,1.0,,4.5,Chievo,36,2017-18
+28,Bastien S.,Cen,C,6.0,,,,,,,,6.0,Chievo,36,2017-18
+9,Stepinski M.,Att,A,7.0,1.0,,,,,,,10.0,Chievo,36,2017-18
+1,Cordaz A.,Por,P,6.0,-2.0,,,,,,,4.0,Crotone,36,2017-18
+7,Ceccherini F.,Dif,D,6.0,,,,,,,,6.0,Crotone,36,2017-18
+24,Capuano M.,Dif,D,6.0,,,,,,,,6.0,Crotone,36,2017-18
+87,Martella B.,Dif,D,5.0,,1.0,,,,,,6.0,Crotone,36,2017-18
+37,Faraoni D.,Dif,D,5.0,,,,,,,,5.0,Crotone,36,2017-18
+38,Mandragora R.,Cen,C,5.0,,,,,,,,5.0,Crotone,36,2017-18
+10,Barberis A.,Cen,C,5.5,,,,,,,,5.5,Crotone,36,2017-18
+9,Nalini A.,Tre,T,6.0,,,,,,,,6.0,Crotone,36,2017-18
+5,Stoian A.,Tre,T,5.5,,,,,,,,5.5,Crotone,36,2017-18
+29,Trotta M.,Att,A,5.0,,,,,,,,5.0,Crotone,36,2017-18
+99,Simy,Att,A,6.0,,,,,,,,6.0,Crotone,36,2017-18
+6,Rohden M.,Cen,C,,,,,,,,,,Crotone,36,2017-18
+20,Ricci F.,Tre,T,5.5,,,,,,,,5.5,Crotone,36,2017-18
+93,Tumminello M.,Att,A,6.0,1.0,,,,,,,9.0,Crotone,36,2017-18
+57,Sportiello M.,Por,P,6.0,-2.0,,,,,,,4.0,Fiorentina,36,2017-18
+76,Gaspar B.,Dif,D,5.0,,,,,,1.0,,4.5,Fiorentina,36,2017-18
+20,Pezzella G.,Dif,D,5.0,,,,,,,,5.0,Fiorentina,36,2017-18
+4,Milenkovic N.,Dif,D,5.5,,,,,,,,5.5,Fiorentina,36,2017-18
+3,Biraghi C.,Dif,D,6.0,,,,,,1.0,,5.5,Fiorentina,36,2017-18
+24,Benassi M.,Cen,C,7.0,1.0,,,,,,,11.0,Fiorentina,36,2017-18
+17,Veretout J.,Cen,C,6.0,,,,,,,,6.0,Fiorentina,36,2017-18
+5,Badelj M.,Cen,C,6.0,,,,,,1.0,,5.5,Fiorentina,36,2017-18
+8,Saponara R.,Tre,T,5.5,,,,,,1.0,,5.0,Fiorentina,36,2017-18
+25,Chiesa F.,Tre,T,7.0,,,,,,1.0,,6.5,Fiorentina,36,2017-18
+9,Simeone G.,Att,A,6.0,,1.0,,,,,,7.0,Fiorentina,36,2017-18
+0,Dabo B.,Cen,C,7.0,1.0,,,,,1.0,,10.5,Fiorentina,36,2017-18
+10,Eysseric V.,Tre,T,6.0,1.0,,,,,,,9.5,Fiorentina,36,2017-18
+11,Falcinelli D.,Att,A,6.0,,1.0,,,,,,7.0,Fiorentina,36,2017-18
+1,Perin M.,Por,P,5.5,-3.0,,,,,,,2.5,Genoa,36,2017-18
+20,Rosi A.,Dif,D,5.5,,,,,,,,5.5,Genoa,36,2017-18
+14,Biraschi D.,Dif,D,5.5,,,,,,,,5.5,Genoa,36,2017-18
+2,Spolli N.,Dif,D,5.0,,,,,,1.0,,4.5,Genoa,36,2017-18
+0,El Yamiq J.,Dif,D,5.5,,,,,,,,5.5,Genoa,36,2017-18
+44,Veloso M.,Cen,C,6.0,,,,,,,,6.0,Genoa,36,2017-18
+15,Hiljemark O.,Cen,C,6.5,,1.0,,,,,,7.5,Genoa,36,2017-18
+8,Bertolacci A.,Cen,C,5.5,,,,,,1.0,,5.0,Genoa,36,2017-18
+22,Lazovic D.,Cen,C,6.0,,,,,,,,6.0,Genoa,36,2017-18
+0,Medeiros I.,Tre,T,7.0,,,,,,,,7.0,Genoa,36,2017-18
+49,Rossi G.,Att,A,6.5,1.0,,,,,,,9.5,Genoa,36,2017-18
+24,Bessa D.,Tre,T,6.5,,1.0,,,,,,7.5,Genoa,36,2017-18
+19,Pandev G.,Tre,T,4.5,,,,,,,1.0,3.5,Genoa,36,2017-18
+10,Lapadula G.,Att,A,6.0,1.0,,,,,,,9.0,Genoa,36,2017-18
+17,Silvestri M.,Por,P,5.5,-4.0,,,,,,,1.5,Hellas Verona,36,2017-18
+2,Romulo,Dif,D,6.0,,,,,,,,6.0,Hellas Verona,36,2017-18
+30,Caracciolo A.,Dif,D,5.0,,,,,,,,5.0,Hellas Verona,36,2017-18
+75,Heurtaux T.,Dif,D,4.0,,,,,,,,4.0,Hellas Verona,36,2017-18
+0,Danzi A.,Cen,C,4.5,,,,,,,,4.5,Hellas Verona,36,2017-18
+23,Calvano S.,Cen,C,4.0,,,,,,,,4.0,Hellas Verona,36,2017-18
+37,Bearzotti E.,Cen,C,4.5,,,,,,,,4.5,Hellas Verona,36,2017-18
+23,Fares M.,Tre,T,4.0,,,,,,,,4.0,Hellas Verona,36,2017-18
+10,Cerci A.,Tre,T,5.5,,,,,,,,5.5,Hellas Verona,36,2017-18
+7,Matos R.,Tre,T,4.0,,,,,,,,4.0,Hellas Verona,36,2017-18
+7,Petkovic B.,Att,A,5.5,,,,,,,,5.5,Hellas Verona,36,2017-18
+14,Zuculini F.,Cen,C,6.5,,,,,,,,6.5,Hellas Verona,36,2017-18
+0,Aarons R.,Tre,T,,,,,,,,,,Hellas Verona,36,2017-18
+21,Lee S.,Tre,T,6.5,1.0,,,,,,,10.0,Hellas Verona,36,2017-18
+1,Handanovic S.,Por,P,7.0,,,,,,,,7.0,Inter,36,2017-18
+37,Skriniar M.,Dif,D,6.0,,,,,,,,6.0,Inter,36,2017-18
+7,Cancelo J.,Dif,D,7.0,,,,,,,,7.0,Inter,36,2017-18
+13,Ranocchia A.,Dif,D,6.5,1.0,,,,,,,11.0,Inter,36,2017-18
+29,Dalbert H.,Dif,D,6.0,,,,,,,,6.0,Inter,36,2017-18
+20,Valero B.,Cen,C,7.0,1.0,,,,,,,11.0,Inter,36,2017-18
+77,Brozovic M.,Cen,C,7.0,,1.0,,,,,,8.0,Inter,36,2017-18
+12,Rafinha R.,Tre,T,7.5,1.0,,,,,,,11.0,Inter,36,2017-18
+44,Perisic I.,Tre,T,7.0,,,,,,,,7.0,Inter,36,2017-18
+87,Candreva A.,Tre,T,5.5,,,,,,,,5.5,Inter,36,2017-18
+9,Icardi M.,Att,A,7.0,1.0,,,,,,,10.0,Inter,36,2017-18
+21,Santon D.,Dif,D,6.0,,,,,,,,6.0,Inter,36,2017-18
+23,Eder C.,Tre,T,,,,,,,,,,Inter,36,2017-18
+17,Karamoh Y.,Tre,T,6.0,,,,,,,,6.0,Inter,36,2017-18
+1,Buffon G.,Por,P,5.5,-1.0,,,,,,,4.5,Juventus,36,2017-18
+22,Asamoah K.,Dif,D,6.0,,,,,,,,6.0,Juventus,36,2017-18
+15,Barzagli A.,Dif,D,6.0,,,,,,,,6.0,Juventus,36,2017-18
+24,Rugani D.,Dif,D,5.5,,,,,,1.0,,5.0,Juventus,36,2017-18
+12,Alex Sandro,Dif,D,6.0,,,,,,,,6.0,Juventus,36,2017-18
+6,Khedira S.,Cen,C,6.0,1.0,,,,,,,10.0,Juventus,36,2017-18
+14,Matuidi B.,Cen,C,5.5,,,,,,,,5.5,Juventus,36,2017-18
+8,Marchisio C.,Cen,C,6.0,,,,,,,,6.0,Juventus,36,2017-18
+10,Dybala P.,Tre,T,6.0,1.0,,,,,,,9.5,Juventus,36,2017-18
+7,Cuadrado J.,Tre,T,7.0,,,,,,1.0,,6.5,Juventus,36,2017-18
+9,Higuain G.,Att,A,5.5,,,,,,,,5.5,Juventus,36,2017-18
+26,Lichtsteiner S.,Dif,D,6.0,,,,,,,,6.0,Juventus,36,2017-18
+11,Costa D.,Tre,T,8.0,,2.0,,,,,,10.0,Juventus,36,2017-18
+33,Bernardeschi F.,Tre,T,,,,,,,,,,Juventus,36,2017-18
+1,Strakosha T.,Por,P,8.0,-1.0,,,,,,,7.0,Lazio,36,2017-18
+77,Marusic A.,Dif,D,5.5,,,,,,,,5.5,Lazio,36,2017-18
+27,Luiz Felipe R.,Dif,D,6.0,,,,,,1.0,,5.5,Lazio,36,2017-18
+26,Caceres M.,Dif,D,5.0,,,,,,,,5.0,Lazio,36,2017-18
+3,De Vrij S.,Dif,D,6.0,,,,,,,,6.0,Lazio,36,2017-18
+6,Leiva L.,Cen,C,5.5,,,,,,,,5.5,Lazio,36,2017-18
+96,Murgia A.,Cen,C,5.0,,,,,,1.0,,4.5,Lazio,36,2017-18
+21,Milinkovic S.,Cen,C,6.0,,,,,,1.0,,5.5,Lazio,36,2017-18
+19,Lulic S.,Cen,C,6.5,,,,,,,,6.5,Lazio,36,2017-18
+18,Alberto L.,Tre,T,6.0,,1.0,,,,,,7.0,Lazio,36,2017-18
+20,Caicedo F.,Att,A,6.5,1.0,,,,,,,9.5,Lazio,36,2017-18
+5,Lukaku J.,Dif,D,5.5,,,,,,,,5.5,Lazio,36,2017-18
+15,Bastos,Dif,D,6.0,,,,,,,,6.0,Lazio,36,2017-18
+10,Anderson F.,Tre,T,6.0,,,,,,,,6.0,Lazio,36,2017-18
+99,Donnarumma G.,Por,P,6.0,-1.0,,,,,,,5.0,Milan,36,2017-18
+20,Abate I.,Dif,D,6.5,1.0,,,,,,,11.0,Milan,36,2017-18
+68,Rodriguez R.,Dif,D,6.0,,,,,,,,6.0,Milan,36,2017-18
+19,Bonucci L.,Dif,D,6.0,,,,,,,,6.0,Milan,36,2017-18
+13,Romagnoli A.,Dif,D,6.0,,,,,,,,6.0,Milan,36,2017-18
+79,Kessie F.,Cen,C,6.0,,,,,,,,6.0,Milan,36,2017-18
+73,Locatelli M.,Cen,C,6.0,,,,,,,,6.0,Milan,36,2017-18
+10,Calhanoglu H.,Tre,T,7.0,1.0,,,,,,,10.5,Milan,36,2017-18
+5,Bonaventura G.,Tre,T,7.0,,2.0,,,,,,9.0,Milan,36,2017-18
+8,Suso J.,Tre,T,7.0,,2.0,,,,,,9.0,Milan,36,2017-18
+63,Cutrone P.,Att,A,6.5,1.0,,,,,,,9.5,Milan,36,2017-18
+22,Musacchio M.,Dif,D,6.0,,,,,,1.0,,5.5,Milan,36,2017-18
+11,Borini F.,Tre,T,6.5,1.0,,,,,,,10.0,Milan,36,2017-18
+7,Kalinic N.,Att,A,6.0,,,,,,,,6.0,Milan,36,2017-18
+25,Reina P.,Por,P,5.5,-2.0,,,,,,,3.5,Napoli,36,2017-18
+33,Albiol R.,Dif,D,6.0,,,,,,,,6.0,Napoli,36,2017-18
+21,Chiriches V.,Dif,D,6.5,,,,,,,,6.5,Napoli,36,2017-18
+6,Rui M.,Dif,D,5.5,,,,,,1.0,,5.0,Napoli,36,2017-18
+23,Hysaj E.,Dif,D,6.0,,,,,,,,6.0,Napoli,36,2017-18
+5,Allan M.,Cen,C,6.5,,,,,,,,6.5,Napoli,36,2017-18
+20,Zielinski P.,Cen,C,5.0,,,,,,,,5.0,Napoli,36,2017-18
+8,Jorginho,Cen,C,6.0,,,,,,,,6.0,Napoli,36,2017-18
+14,Mertens D.,Tre,T,6.5,1.0,,,,,,,10.0,Napoli,36,2017-18
+7,Callejon J.,Tre,T,5.5,,,,,,,,5.5,Napoli,36,2017-18
+24,Insigne L.,Tre,T,6.5,,,,,,,,6.5,Napoli,36,2017-18
+17,Hamsik M.,Cen,C,7.0,1.0,,,,,,,11.0,Napoli,36,2017-18
+37,Ounas A.,Tre,T,,,,,,,,,,Napoli,36,2017-18
+99,Milik A.,Att,A,6.5,,,,,,,,6.5,Napoli,36,2017-18
+1,Alisson,Por,P,6.5,,,,,,,,6.5,Roma,36,2017-18
+11,Kolarov A.,Dif,D,6.5,,,,,,,,6.5,Roma,36,2017-18
+0,Capradossi E.,Dif,D,6.0,,,,,,,,6.0,Roma,36,2017-18
+20,Fazio F.,Dif,D,6.5,,,,,,,,6.5,Roma,36,2017-18
+25,Peres B.,Dif,D,5.0,,,,,,,,5.0,Roma,36,2017-18
+16,De Rossi D.,Cen,C,6.5,,,,,,,,6.5,Roma,36,2017-18
+21,Gonalons M.,Cen,C,6.0,,,,,,,,6.0,Roma,36,2017-18
+4,Nainggolan R.,Cen,C,5.5,,,,,,,,5.5,Roma,36,2017-18
+17,Under C.,Tre,T,6.5,1.0,,,,,,,10.0,Roma,36,2017-18
+30,Gerson,Tre,T,6.0,,,,,,1.0,,5.5,Roma,36,2017-18
+9,Dzeko E.,Att,A,6.5,,1.0,,,,,,7.5,Roma,36,2017-18
+24,Florenzi A.,Dif,D,5.0,,,,,,,,5.0,Roma,36,2017-18
+0,Silva J.,Dif,D,5.0,,,,,,,,5.0,Roma,36,2017-18
+14,Schick P.,Att,A,,,,,,,,,,Roma,36,2017-18
+2,Viviano E.,Por,P,6.0,-1.0,,,,,,,5.0,Sampdoria,36,2017-18
+24,Bereszynski B.,Dif,D,5.5,,,,,,,,5.5,Sampdoria,36,2017-18
+0,Andersen J.,Dif,D,5.5,,,,,,,,5.5,Sampdoria,36,2017-18
+26,Silvestre M.,Dif,D,5.5,,,,,,,,5.5,Sampdoria,36,2017-18
+7,Sala J.,Dif,D,5.0,,,,,,,,5.0,Sampdoria,36,2017-18
+8,Barreto E.,Cen,C,5.0,,,,,,,,5.0,Sampdoria,36,2017-18
+18,Praet D.,Cen,C,5.0,,,,,,,,5.0,Sampdoria,36,2017-18
+16,Linetty K.,Cen,C,5.5,,,,,,,,5.5,Sampdoria,36,2017-18
+34,Torreira L.,Cen,C,5.5,,,,,,,,5.5,Sampdoria,36,2017-18
+27,Quagliarella F.,Att,A,5.0,,,,,,,,5.0,Sampdoria,36,2017-18
+99,Kownacki D.,Att,A,5.0,,,,,,,,5.0,Sampdoria,36,2017-18
+0,Stijepovic O.,Cen,C,,,,,,,,,,Sampdoria,36,2017-18
+90,Ramirez G.,Tre,T,5.5,,,,,,1.0,,5.0,Sampdoria,36,2017-18
+9,Caprari G.,Att,A,5.5,,,,,,,,5.5,Sampdoria,36,2017-18
+47,Consigli A.,Por,P,6.0,,,,,,,,6.0,Sassuolo,36,2017-18
+15,Acerbi F.,Dif,D,6.5,,,,,,,,6.5,Sassuolo,36,2017-18
+98,Adjapong C.,Dif,D,6.5,,,,,,,,6.5,Sassuolo,36,2017-18
+0,Rogerio O.,Dif,D,6.0,,,,,,,,6.0,Sassuolo,36,2017-18
+0,Lemos M.,Dif,D,6.5,,,,,,,,6.5,Sassuolo,36,2017-18
+39,Dellorco C.,Dif,D,6.0,,,,,,,,6.0,Sassuolo,36,2017-18
+32,Duncan A.,Cen,C,7.0,,1.0,,,,,,8.0,Sassuolo,36,2017-18
+12,Sensi S.,Cen,C,6.0,,,,,,,,6.0,Sassuolo,36,2017-18
+7,Missiroli S.,Cen,C,6.5,,,,,,,,6.5,Sassuolo,36,2017-18
+16,Politano M.,Tre,T,7.0,1.0,,,,,,,10.5,Sassuolo,36,2017-18
+25,Berardi D.,Tre,T,6.5,,,,,,,,6.5,Sassuolo,36,2017-18
+13,Peluso F.,Dif,D,6.0,,,,,,1.0,,5.5,Sassuolo,36,2017-18
+90,Ragusa A.,Tre,T,,,,,,,,,,Sassuolo,36,2017-18
+30,Babacar K.,Att,A,6.0,,,,,,,,6.0,Sassuolo,36,2017-18
+1,Gomis A.,Por,P,7.0,,,,,,,,7.0,Spal,36,2017-18
+4,Cionek T.,Dif,D,6.5,,,,,,,,6.5,Spal,36,2017-18
+33,Costa F.,Dif,D,6.5,,,,,,,,6.5,Spal,36,2017-18
+27,Felipe,Dif,D,6.5,,,,,,,,6.5,Spal,36,2017-18
+23,Vicari F.,Dif,D,6.5,,,,,,1.0,,6.0,Spal,36,2017-18
+14,Mattiello F.,Dif,D,6.5,,,,,,1.0,,6.0,Spal,36,2017-18
+0,Everton Luiz B.,Cen,C,7.0,,,,,,,,7.0,Spal,36,2017-18
+88,Grassi A.,Cen,C,7.0,,,,,,,,7.0,Spal,36,2017-18
+27,Kurtic J.,Tre,T,5.5,,,,,,,,5.5,Spal,36,2017-18
+7,Antenucci M.,Att,A,7.0,1.0,,1.0,,,,,10.0,Spal,36,2017-18
+43,Paloschi A.,Att,A,7.0,1.0,,,,,,,10.0,Spal,36,2017-18
+21,Salamon B.,Dif,D,,,,,,,,,,Spal,36,2017-18
+28,Schiattarella P.,Cen,C,,,,,,,,,,Spal,36,2017-18
+9,Bonazzoli F.,Att,A,,,,,,,,,,Spal,36,2017-18
+39,Sirigu S.,Por,P,6.0,-2.0,,,,,,,4.0,Torino,36,2017-18
+15,Ansaldi C.,Dif,D,6.0,,,,,,,,6.0,Torino,36,2017-18
+29,De Silvestri L.,Dif,D,6.5,1.0,,,,,,,11.0,Torino,36,2017-18
+13,Burdisso N.,Dif,D,4.5,,,,,,1.0,,4.0,Torino,36,2017-18
+33,Nkoulou N.,Dif,D,6.5,,,,,,1.0,,6.0,Torino,36,2017-18
+4,Bonifazi K.,Dif,D,6.0,,,,,,,,6.0,Torino,36,2017-18
+88,Rincon T.,Cen,C,6.0,,,,,,,,6.0,Torino,36,2017-18
+6,Acquah A.,Cen,C,6.0,,,,,,,,6.0,Torino,36,2017-18
+8,Baselli D.,Cen,C,6.5,1.0,,,,,1.0,,10.0,Torino,36,2017-18
+10,Ljajic A.,Tre,T,6.5,,2.0,,,,,,8.5,Torino,36,2017-18
+94,Niang M.,Att,A,5.0,,,,,,,,5.0,Torino,36,2017-18
+18,Valdifiori M.,Cen,C,,,,,,,,,,Torino,36,2017-18
+14,Iago F.,Tre,T,,,,,,,,,,Torino,36,2017-18
+9,Belotti A.,Att,A,5.5,,,,,,1.0,,5.0,Torino,36,2017-18
+1,Bizzarri A.,Por,P,5.0,-4.0,,,,,,,1.0,Udinese,36,2017-18
+3,Samir,Dif,D,4.5,,,,,,,,4.5,Udinese,36,2017-18
+0,Larsen J.,Dif,D,5.0,,,,,,,,5.0,Udinese,36,2017-18
+5,Danilo L.,Dif,D,5.5,,,,,,1.0,,5.0,Udinese,36,2017-18
+27,Widmer S.,Dif,D,5.0,,,,,,,,5.0,Udinese,36,2017-18
+53,Adnan A.,Dif,D,4.5,,,,,,,,4.5,Udinese,36,2017-18
+99,Balic A.,Cen,C,5.5,,,,,,,,5.5,Udinese,36,2017-18
+85,Behrami V.,Cen,C,5.0,,,,,,,,5.0,Udinese,36,2017-18
+6,Fofana S.,Cen,C,4.5,,,,,,,1.0,3.5,Udinese,36,2017-18
+10,De Paul R.,Tre,T,5.5,,,,,,,,5.5,Udinese,36,2017-18
+15,Lasagna K.,Att,A,6.0,,,,,,,,6.0,Udinese,36,2017-18
+14,Jankto J.,Cen,C,5.5,,,,,,,,5.5,Udinese,36,2017-18
+72,Barak A.,Cen,C,5.5,,,,,,,,5.5,Udinese,36,2017-18
+18,Perica S.,Att,A,,,,,,,,,,Udinese,36,2017-18
