@@ -1,5 +1,7 @@
 import requests
 from Classes import Setup
+from collections import defaultdict
+import json
 
 
 class DataScraper:
@@ -29,12 +31,32 @@ class DataScraper:
     def parse_html(self):
         pass
 
+    def table_2_json(self, df, nesting_fields, output_filename):
+
+        results = defaultdict(lambda: defaultdict(dict))
+        grp = df.set_index(nesting_fields)
+
+        for index, value in grp.iterrows():
+
+            for i, key in enumerate(index):
+                if i == 0:
+                    nested = results[key]
+                elif i == len(index) - 1:
+                    nested[key] = value.to_dict()
+                else:
+                    nested = nested[key]
+
+        with open(output_filename, "w") as outfile:
+            json.dump(results, outfile)
+
+
+
 
 
     def make_one_file_from_raw_data(self):
         # create empty file:
-        # f1 = open('%s/%s_stats_per_dots.csv' % (self.journal, self.data_root), 'w+')
-        f1 = open(self.data_root.joinpath(self.journal + '_stats_per_dots.csv'), 'w+')
+        csv_filename = self.data_root.joinpath(self.journal + '_stats_per_dots.csv')
+        f1 = open(csv_filename, 'w+')
         f1.write(self.file_header)
 
         for yyss in self.yyss:
@@ -51,6 +73,8 @@ class DataScraper:
                     for line in table: f1.write(line)
 
         f1.close()
+
+
 
     def download_data(self):
         pass

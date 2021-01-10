@@ -1,243 +1,243 @@
 ,dots,giocatore,squadra,ruolo,fantavoto,voto,gol_fatti_subiti,ammonizioni,espulsioni,rigori_parati_segnati,autogol,portiere_imbattuto,yyss
-2784,19,MODESTO Francesco,REGGINA,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-1578,19,CORDOBA Ivan Ramiro,INTER,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-1540,19,CONTINI Matteo,PARMA,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-374,19,DIDA Nelson,MILAN,P,5.0,6.0,-1.0,0.0,0.0,0.0,0.0,,2005-06
-2652,19,MALAGO' Marco,CHIEVO,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-7662,19,ZENONI Damiano,UDINESE,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-1687,19,CRIBARI Sanchez Emilson,LAZIO,D,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-4189,19,AMBROSINI Massimo,MILAN,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7798,19,BAKAYOKO,LIVORNO,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-1710,19,CRISTANTE Filippo,MESSINA,D,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-8844,19,MAKINWA Stephen,PALERMO,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5122,19,DELVECCHIO Gennaro,LECCE,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6405,19,MUDINGAYI Gaby,LAZIO,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7780,19,AMORUSO Nicola,REGGINA,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6577,19,PANDEV Goran,LAZIO,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5164,19,DIANA Aimo,SAMPDORIA,C,13.0,7.0,6.0,0.0,0.0,0.0,0.0,,2005-06
-1631,19,COTTAFAVA Marcello,TREVISO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6363,19,MOROSINI Piermario,UDINESE,C,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-7831,19,BARRETO Paulo,UDINESE,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2823,19,MOLINARO Cristian,SIENA,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-2750,19,MEXES Philippe,ROMA,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5156,19,DESSENA Daniele,PARMA,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-1644,19,COUTO Fernando,PARMA,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6400,19,MORRONE Stefano,LIVORNO,C,9.5,7.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
-740,19,STORARI Marco,MESSINA,P,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7841,19,BAZZANI Fabio,SAMPDORIA,A,8.5,6.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
-415,19,DONI Alexander Marangao,ROMA,P,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7858,19,BJELANOVIC Sasa,ASCOLI,A,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
-7742,19,AMAURI Carvalho,CHIEVO,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7692,19,ADRIANO Leite Ribeiro,INTER,A,12.5,6.5,6.0,0.0,0.0,0.0,0.0,,2005-06
-2683,19,MANDELLI Davide,CHIEVO,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3782,19,VARGAS Jorge,LIVORNO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6359,19,MORO Davide,EMPOLI,C,6.5,6.0,0.0,-0.5,0.0,0.0,1.0,,2005-06
-426,19,FONTANA Alberto,CHIEVO,P,4.0,6.0,-2.0,0.0,0.0,0.0,0.0,,2005-06
-9536,19,TREZEGUET David,JUVENTUS,A,7.0,6.0,0.0,0.0,0.0,0.0,1.0,,2005-06
-6314,19,MORFEO Domenico,PARMA,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-4211,19,AQUILANI Alberto,ROMA,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5200,19,DONADEL Marco,FIORENTINA,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-6483,19,NEDVED Pavel,JUVENTUS,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-9462,19,TONI Luca,FIORENTINA,A,13.5,8.0,6.0,-0.5,0.0,0.0,0.0,,2005-06
-2617,19,LUCCHINI Stefano,EMPOLI,D,4.5,5.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-2283,19,GIULIATTO Alberto,TREVISO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2066,19,FELIPE Dalbelo,UDINESE,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-2292,19,GRANDONI Alessandro,LIVORNO,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7263,19,TEDESCO Giacomo,REGGINA,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7282,19,TISSONE Fernando,UDINESE,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-112,19,BALLI Daniele,EMPOLI,P,1.5,5.0,-3.0,-0.5,0.0,0.0,0.0,,2005-06
-111,19,ANTONIOLI Francesco,SAMPDORIA,P,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-503,19,JULIO CESAR Soares,INTER,P,4.0,6.0,-2.0,0.0,0.0,0.0,0.0,,2005-06
-2035,19,FAVALLI Giuseppe,INTER,D,4.5,5.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-2329,19,GROSSO Fabio,PALERMO,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-7310,19,TOMMASI Damiano,ROMA,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-9510,19,TOTTI Francesco,ROMA,A,7.5,6.5,0.0,0.0,0.0,0.0,1.0,,2005-06
-3927,19,ZANCHI Marco,MESSINA,D,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-489,19,GUARDALBEN Matteo,PARMA,P,5.0,6.0,-1.0,0.0,0.0,0.0,0.0,,2005-06
-8929,19,MUSLIMOVIC Zlatan,MESSINA,A,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-4054,19,ZENONI Cristian,SAMPDORIA,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7352,19,TONETTO Max,SAMPDORIA,C,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-604,19,PAVARINI Nicola,REGGINA,P,6.0,7.0,-1.0,0.0,0.0,0.0,0.0,,2005-06
-2367,19,GUSTAVO Lazzaretti De Ara,TREVISO,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-4979,19,DABO Ousmane,LAZIO,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3952,19,ZANETTI Javier Aldemar,INTER,D,7.0,6.0,0.0,0.0,0.0,0.0,1.0,,2005-06
-2166,19,FRANCESCHINI Ivan,REGGINA,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-4934,19,D'AGOSTINO Gaetano,MESSINA,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7111,19,SERGINHO Dos Santos,MILAN,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2139,19,FOGLIO Paolo,SIENA,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7081,19,SEMIOLI Franco,CHIEVO,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-3998,19,ZAURI Luciano,LAZIO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2182,19,GALANTE Fabio,LIVORNO,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7046,19,SEEDORF Clarence,MILAN,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7148,19,SIMPLICIO Fabio,PARMA,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3964,19,ZAPATA Cristian Eduardo,UDINESE,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-548,19,LUPATELLI Cristiano,PALERMO,P,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2234,19,GAMBERINI Alessandro,FIORENTINA,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7178,19,STANKOVIC Dejan,INTER,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-9015,19,PALLADINO Raffaele,LIVORNO,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-571,19,MIRANTE Antonio,SIENA,P,4.5,6.5,-2.0,0.0,0.0,0.0,0.0,,2005-06
-4972,19,D'AVERSA Roberto,SIENA,C,7.0,6.5,0.0,-0.5,0.0,0.0,1.0,,2005-06
-7000,19,SANTANA Mario Alberto,PALERMO,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7225,19,TADDEI Rodrigo,ROMA,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7629,19,ZANETTI Cristiano,INTER,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7367,19,VALDES Jaime,LECCE,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-134,19,BENUSSI Francesco,LECCE,P,3.0,6.0,-3.0,0.0,0.0,0.0,0.0,,2005-06
-7518,19,VIEIRA Patrick,JUVENTUS,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-6707,19,PARRAVICINI Francesco,TREVISO,C,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-1812,19,DE ROSA Gaetano,REGGINA,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5089,19,DE ROSSI Daniele,ROMA,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-4137,19,ALBERTO Nieto,SIENA,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-3856,19,ZACCARDO Cristian,PALERMO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7550,19,VIGIANI Luca,REGGINA,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-6661,19,PAROLA Andrea,ASCOLI,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-8886,19,MARTINS Obafemi Akinwunmi,INTER,A,9.5,7.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
-6652,19,PARO Matteo,SIENA,C,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-4140,19,ALMIRON Sergio,EMPOLI,C,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
-4785,19,CONTI Daniele,CAGLIARI,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-2597,19,LUCARELLI Alessandro,REGGINA,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-6620,19,PAREDES Carlos,REGGINA,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7602,19,VOLPI Sergio,SAMPDORIA,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-1745,19,CUFRE' Leandro Damian,ROMA,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-7624,19,ZANCHETTA Andrea,CHIEVO,C,9.5,7.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
-2519,19,LANZARO Maurizio,REGGINA,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-1972,19,DOMIZZI Maurizio,ASCOLI,D,9.0,6.0,3.0,0.0,0.0,0.0,0.0,,2005-06
-8897,19,MISSIROLI Simone,REGGINA,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-4238,19,BARONE Simone,PALERMO,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7380,19,VANNUCCHI Ighli,EMPOLI,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-9069,19,PELLISSIER Sergio,CHIEVO,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-4082,19,ABEIJON Nelson,CAGLIARI,C,4.0,4.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-6870,19,PIRLO Andrea,MILAN,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6853,19,PINGA Andre',TREVISO,C,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
-2397,19,KALADZE Kakha,MILAN,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-5042,19,DALLA BONA Samuele,SAMPDORIA,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-642,19,PERUZZI Angelo,LAZIO,P,5.5,6.5,-1.0,0.0,0.0,0.0,0.0,,2005-06
-6816,19,PINARDI Alex,LECCE,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6799,19,PIERI Mirko,UDINESE,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6775,19,PERROTTA Simone,ROMA,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-1896,19,DI LORETO Marco,FIORENTINA,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5056,19,DE ASCENTIS Diego,LIVORNO,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-1886,19,DELLAFIORE Hernan Paolo,TREVISO,D,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
-3886,19,ZAMBROTTA Gianluca,JUVENTUS,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2489,19,LANNA Salvatore,CHIEVO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7484,19,VIDIGAL Jose',UDINESE,C,4.5,4.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-6727,19,PASSONI Dario,LIVORNO,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6279,19,MESTO Giandomenico,REGGINA,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2256,19,GASTALDELLO Daniele,SIENA,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2856,19,MOTTA Marco,UDINESE,D,8.5,6.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
-5427,19,FINI Michele,ASCOLI,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-286,19,COPPOLA Ferdinando,ASCOLI,P,4.5,5.5,-1.0,0.0,0.0,0.0,0.0,,2005-06
-3164,19,PFERTZEL Marc,LIVORNO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-1229,19,CANNAVARO Fabio,JUVENTUS,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-8202,19,COSSU Andrea,CAGLIARI,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-3368,19,RULLO Erminio,LECCE,D,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5938,19,JORGENSEN Martin,FIORENTINA,C,7.5,6.5,0.0,0.0,0.0,0.0,1.0,,2005-06
-8192,19,CORRADI Bernardo,PARMA,A,9.0,6.5,3.0,-0.5,0.0,0.0,0.0,,2005-06
-4590,19,CAMBIASSO Esteban,INTER,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5321,19,FICINI Fabrizio,EMPOLI,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5954,19,KAKA' Ricardo,MILAN,C,4.5,4.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5635,19,GATTUSO Gennaro Ivan,MILAN,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-8463,19,ESPOSITO Mauro,CAGLIARI,A,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
-1264,19,CANNAVARO Paolo,PARMA,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-8219,19,COZZOLINO Giuseppe,LECCE,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-4494,19,BROCCHI Cristian,FIORENTINA,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-9272,19,SAUDATI Luca,LECCE,A,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3680,19,TUDOR Igor,SIENA,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-4420,19,BRESCIANO Mark,PARMA,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-9352,19,SUAZO David,CAGLIARI,A,11.0,7.0,3.0,0.0,0.0,0.0,1.0,,2005-06
-818,19,AGOSTINI Alessandro,CAGLIARI,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5778,19,GONZALEZ Mariano Nicolas,PALERMO,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5609,19,GASBARRONI Andrea,SAMPDORIA,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3415,19,SALA Luigi,SAMPDORIA,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-1305,19,CARDONE Giuseppe,PARMA,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-9255,19,ROCCHI Tommaso,LAZIO,A,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
-885,19,ASCOLI Nicola,EMPOLI,D,4.5,5.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-1315,19,CASSETTI Marco,LECCE,D,4.5,5.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-8503,19,FERRANTE Marco,ASCOLI,A,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
-3536,19,STAM Jaap,MILAN,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-8159,19,COLOMBO Corrado,SAMPDORIA,A,9.5,7.5,0.0,0.0,0.0,0.0,2.0,,2005-06
-8100,19,CHIESA Enrico,SIENA,A,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
-881,19,ARONICA Salvatore,MESSINA,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-9287,19,SCULLI Giuseppe,MESSINA,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-8714,19,KONAN Haouliais Axel Cedr,LECCE,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5386,19,FILIPPINI Antonio,TREVISO,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5763,19,GOBBI Massimo,CAGLIARI,C,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-3612,19,TERLIZZI Christian,PALERMO,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-4523,19,BUDEL Alessandro,CAGLIARI,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-4544,19,BUSCE' Antonio,EMPOLI,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-3240,19,PORTANOVA Daniele,SIENA,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3575,19,STOVINI Lorenzo,LECCE,D,3.5,4.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-8302,19,DI CANIO Paolo,LAZIO,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3306,19,RAGGI Andrea,EMPOLI,D,4.5,5.5,0.0,-1.0,0.0,0.0,0.0,,2005-06
-5829,19,GRELLA Vincenzo,PARMA,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5360,19,FIGO Luis,INTER,C,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3636,19,THURAM Lilian Ulien,JUVENTUS,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5844,19,GUANA Roberto,ASCOLI,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-3662,19,TOSTO Vittorio,ASCOLI,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-248,19,CHIMENTI Antonio,CAGLIARI,P,3.5,6.5,-3.0,0.0,0.0,0.0,0.0,,2005-06
-4385,19,BONANNI Massimo,PALERMO,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-8264,19,DEL PIERO Alessandro,JUVENTUS,A,10.5,7.5,3.0,0.0,0.0,0.0,0.0,,2005-06
-8737,19,KUTUZOV Vitalii,SAMPDORIA,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5710,19,GIUNTI Federico,CHIEVO,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-9335,19,SHEVCHENKO Andriy,MILAN,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-8419,19,DI NATALE Antonio,UDINESE,A,9.0,6.0,3.0,0.0,0.0,0.0,0.0,,2005-06
-1184,19,CANINI Michele,CAGLIARI,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-5877,19,GUIGOU Gianni,TREVISO,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5420,19,FILIPPINI Emanuele,TREVISO,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5904,19,JIMENEZ Luis,FIORENTINA,C,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-5688,19,GIAMPA' Domenico,MESSINA,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-8242,19,CRUZ Julio Ricardo,INTER,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-244,19,CEJAS Cristian Sebastian,FIORENTINA,P,5.5,6.5,-1.0,0.0,0.0,0.0,0.0,,2005-06
-1053,19,BIZERA Emerson J. B.,CAGLIARI,D,4.5,4.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-1073,19,BONERA Daniele,PARMA,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-3055,19,PARISI Alessandro,MESSINA,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3097,19,PASQUAL Manuel,FIORENTINA,D,7.5,6.5,0.0,0.0,0.0,0.0,1.0,,2005-06
-7999,19,BRIENZA Franco,PALERMO,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3457,19,SCHIAVI Raffaele,LECCE,D,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-8029,19,CAPONE Andrea,CAGLIARI,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-960,19,BARZAGLI Andrea,PALERMO,D,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-1412,19,CHIVU Cristian,ROMA,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-2977,19,PACI Massimo,ASCOLI,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-8566,19,GILARDINO Alberto,MILAN,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-4625,19,CAMORANESI Mauro,JUVENTUS,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-6163,19,MANFREDINI Christian,LAZIO,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-2958,19,ODDO Massimo,LAZIO,D,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3520,19,SIVIGLIA Sebastiano,LAZIO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-7976,19,BORRIELLO Marco,TREVISO,A,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-5240,19,DONATI Massimo,MESSINA,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6206,19,MARCHIONNI Marco,PARMA,C,8.0,7.0,0.0,0.0,0.0,0.0,1.0,,2005-06
-1431,19,COCO Francesco,LIVORNO,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-5473,19,FIORE Stefano,FIORENTINA,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-1456,19,CODA Andrea,EMPOLI,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-3460,19,SCURTO Giuseppe,CHIEVO,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-4460,19,BRIGHI Matteo,CHIEVO,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-2925,19,NESTA Alessandro,MILAN,D,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-9212,19,RIGANO' Christian,EMPOLI,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-8801,19,LUCARELLI Cristiano,LIVORNO,A,10.5,6.5,3.0,0.0,0.0,0.0,1.0,,2005-06
-8594,19,GODEAS Denis,PALERMO,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3754,19,VANIGLI Richard,EMPOLI,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-763,19,ZANCOPE' Adriano,TREVISO,P,4.0,6.0,-2.0,0.0,0.0,0.0,0.0,,2005-06
-7903,19,BOGDANI Erjon,SIENA,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3475,19,SENSINI Roberto Nestor,UDINESE,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-1515,19,COMOTTO Gianluca,ASCOLI,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6246,19,MAURI Stefano,UDINESE,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-928,19,BALZARETTI Federico,JUVENTUS,D,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-327,19,DE SANCTIS Morgan,UDINESE,P,3.5,5.5,-2.0,0.0,0.0,0.0,0.0,,2005-06
-5537,19,FOGGIA Pasquale,ASCOLI,C,8.0,7.0,0.0,0.0,0.0,0.0,1.0,,2005-06
-8371,19,DI NAPOLI Arturo,MESSINA,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-46,19,AMELIA Marco,LIVORNO,P,5.0,7.0,-2.0,0.0,0.0,0.0,0.0,,2005-06
-8772,19,LOCATELLI Tomas,SIENA,A,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
-3717,19,UJFALUSI Tomas,FIORENTINA,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-3026,19,PANUCCI Christian,ROMA,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-9416,19,TAVANO Francesco,EMPOLI,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-790,19,ACCARDI Pietro,PALERMO,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5269,19,EMERSON Ferreira,JUVENTUS,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-5566,19,FRANCESCHINI Daniele,CHIEVO,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-203,19,BUFFON Gianluigi,JUVENTUS,P,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6053,19,LEDESMA Cristian,LECCE,C,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-9566,19,VUCINIC Mirko,LECCE,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-6112,19,LUCIANO Siqueira,CHIEVO,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
-3447,19,SAMUEL Walter,INTER,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
-983,19,BEGA Francesco,CAGLIARI,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
-6071,19,LIVERANI Fabio,LAZIO,C,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
-6127,19,MANCINI Amantino,ROMA,C,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
-1365,19,CASTELLINI Marcello,SAMPDORIA,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+2784,19,modesto francesco,reggina,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+1578,19,cordoba ivan ramiro,inter,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+1540,19,contini matteo,parma,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+374,19,dida nelson,milan,P,5.0,6.0,-1.0,0.0,0.0,0.0,0.0,,2005-06
+2652,19,malago' marco,chievo,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+7662,19,zenoni damiano,udinese,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+1687,19,cribari sanchez emilson,lazio,D,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+4189,19,ambrosini massimo,milan,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7798,19,bakayoko,livorno,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+1710,19,cristante filippo,messina,D,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+8844,19,makinwa stephen,palermo,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5122,19,delvecchio gennaro,lecce,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6405,19,mudingayi gaby,lazio,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7780,19,amoruso nicola,reggina,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6577,19,pandev goran,lazio,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5164,19,diana aimo,sampdoria,C,13.0,7.0,6.0,0.0,0.0,0.0,0.0,,2005-06
+1631,19,cottafava marcello,treviso,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6363,19,morosini piermario,udinese,C,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+7831,19,barreto paulo,udinese,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2823,19,molinaro cristian,siena,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+2750,19,mexes philippe,roma,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5156,19,dessena daniele,parma,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+1644,19,couto fernando,parma,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6400,19,morrone stefano,livorno,C,9.5,7.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
+740,19,storari marco,messina,P,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7841,19,bazzani fabio,sampdoria,A,8.5,6.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
+415,19,doni alexander marangao,roma,P,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7858,19,bjelanovic sasa,ascoli,A,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
+7742,19,amauri carvalho,chievo,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7692,19,adriano leite ribeiro,inter,A,12.5,6.5,6.0,0.0,0.0,0.0,0.0,,2005-06
+2683,19,mandelli davide,chievo,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3782,19,vargas jorge,livorno,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6359,19,moro davide,empoli,C,6.5,6.0,0.0,-0.5,0.0,0.0,1.0,,2005-06
+426,19,fontana alberto,chievo,P,4.0,6.0,-2.0,0.0,0.0,0.0,0.0,,2005-06
+9536,19,trezeguet david,juventus,A,7.0,6.0,0.0,0.0,0.0,0.0,1.0,,2005-06
+6314,19,morfeo domenico,parma,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+4211,19,aquilani alberto,roma,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5200,19,donadel marco,fiorentina,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+6483,19,nedved pavel,juventus,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+9462,19,toni luca,fiorentina,A,13.5,8.0,6.0,-0.5,0.0,0.0,0.0,,2005-06
+2617,19,lucchini stefano,empoli,D,4.5,5.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+2283,19,giuliatto alberto,treviso,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2066,19,felipe dalbelo,udinese,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+2292,19,grandoni alessandro,livorno,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7263,19,tedesco giacomo,reggina,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7282,19,tissone fernando,udinese,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+112,19,balli daniele,empoli,P,1.5,5.0,-3.0,-0.5,0.0,0.0,0.0,,2005-06
+111,19,antonioli francesco,sampdoria,P,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+503,19,julio cesar soares,inter,P,4.0,6.0,-2.0,0.0,0.0,0.0,0.0,,2005-06
+2035,19,favalli giuseppe,inter,D,4.5,5.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+2329,19,grosso fabio,palermo,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+7310,19,tommasi damiano,roma,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+9510,19,totti francesco,roma,A,7.5,6.5,0.0,0.0,0.0,0.0,1.0,,2005-06
+3927,19,zanchi marco,messina,D,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+489,19,guardalben matteo,parma,P,5.0,6.0,-1.0,0.0,0.0,0.0,0.0,,2005-06
+8929,19,muslimovic zlatan,messina,A,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+4054,19,zenoni cristian,sampdoria,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7352,19,tonetto max,sampdoria,C,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+604,19,pavarini nicola,reggina,P,6.0,7.0,-1.0,0.0,0.0,0.0,0.0,,2005-06
+2367,19,gustavo lazzaretti de ara,treviso,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+4979,19,dabo ousmane,lazio,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3952,19,zanetti javier aldemar,inter,D,7.0,6.0,0.0,0.0,0.0,0.0,1.0,,2005-06
+2166,19,franceschini ivan,reggina,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+4934,19,d'agostino gaetano,messina,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7111,19,serginho dos santos,milan,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2139,19,foglio paolo,siena,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7081,19,semioli franco,chievo,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+3998,19,zauri luciano,lazio,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2182,19,galante fabio,livorno,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7046,19,seedorf clarence,milan,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7148,19,simplicio fabio,parma,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3964,19,zapata cristian eduardo,udinese,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+548,19,lupatelli cristiano,palermo,P,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2234,19,gamberini alessandro,fiorentina,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7178,19,stankovic dejan,inter,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+9015,19,palladino raffaele,livorno,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+571,19,mirante antonio,siena,P,4.5,6.5,-2.0,0.0,0.0,0.0,0.0,,2005-06
+4972,19,d'aversa roberto,siena,C,7.0,6.5,0.0,-0.5,0.0,0.0,1.0,,2005-06
+7000,19,santana mario alberto,palermo,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7225,19,taddei rodrigo,roma,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7629,19,zanetti cristiano,inter,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7367,19,valdes jaime,lecce,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+134,19,benussi francesco,lecce,P,3.0,6.0,-3.0,0.0,0.0,0.0,0.0,,2005-06
+7518,19,vieira patrick,juventus,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+6707,19,parravicini francesco,treviso,C,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+1812,19,de rosa gaetano,reggina,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5089,19,de rossi daniele,roma,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+4137,19,alberto nieto,siena,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+3856,19,zaccardo cristian,palermo,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7550,19,vigiani luca,reggina,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+6661,19,parola andrea,ascoli,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+8886,19,martins obafemi akinwunmi,inter,A,9.5,7.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
+6652,19,paro matteo,siena,C,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+4140,19,almiron sergio,empoli,C,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
+4785,19,conti daniele,cagliari,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+2597,19,lucarelli alessandro,reggina,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+6620,19,paredes carlos,reggina,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7602,19,volpi sergio,sampdoria,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+1745,19,cufre' leandro damian,roma,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+7624,19,zanchetta andrea,chievo,C,9.5,7.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
+2519,19,lanzaro maurizio,reggina,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+1972,19,domizzi maurizio,ascoli,D,9.0,6.0,3.0,0.0,0.0,0.0,0.0,,2005-06
+8897,19,missiroli simone,reggina,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+4238,19,barone simone,palermo,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7380,19,vannucchi ighli,empoli,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+9069,19,pellissier sergio,chievo,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+4082,19,abeijon nelson,cagliari,C,4.0,4.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+6870,19,pirlo andrea,milan,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6853,19,pinga andre',treviso,C,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
+2397,19,kaladze kakha,milan,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+5042,19,dalla bona samuele,sampdoria,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+642,19,peruzzi angelo,lazio,P,5.5,6.5,-1.0,0.0,0.0,0.0,0.0,,2005-06
+6816,19,pinardi alex,lecce,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6799,19,pieri mirko,udinese,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6775,19,perrotta simone,roma,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+1896,19,di loreto marco,fiorentina,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5056,19,de ascentis diego,livorno,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+1886,19,dellafiore hernan paolo,treviso,D,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
+3886,19,zambrotta gianluca,juventus,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2489,19,lanna salvatore,chievo,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7484,19,vidigal jose',udinese,C,4.5,4.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+6727,19,passoni dario,livorno,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6279,19,mesto giandomenico,reggina,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2256,19,gastaldello daniele,siena,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2856,19,motta marco,udinese,D,8.5,6.0,3.0,-0.5,0.0,0.0,0.0,,2005-06
+5427,19,fini michele,ascoli,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+286,19,coppola ferdinando,ascoli,P,4.5,5.5,-1.0,0.0,0.0,0.0,0.0,,2005-06
+3164,19,pfertzel marc,livorno,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+1229,19,cannavaro fabio,juventus,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+8202,19,cossu andrea,cagliari,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+3368,19,rullo erminio,lecce,D,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5938,19,jorgensen martin,fiorentina,C,7.5,6.5,0.0,0.0,0.0,0.0,1.0,,2005-06
+8192,19,corradi bernardo,parma,A,9.0,6.5,3.0,-0.5,0.0,0.0,0.0,,2005-06
+4590,19,cambiasso esteban,inter,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5321,19,ficini fabrizio,empoli,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5954,19,kaka' ricardo,milan,C,4.5,4.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5635,19,gattuso gennaro ivan,milan,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+8463,19,esposito mauro,cagliari,A,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
+1264,19,cannavaro paolo,parma,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+8219,19,cozzolino giuseppe,lecce,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+4494,19,brocchi cristian,fiorentina,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+9272,19,saudati luca,lecce,A,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3680,19,tudor igor,siena,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+4420,19,bresciano mark,parma,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+9352,19,suazo david,cagliari,A,11.0,7.0,3.0,0.0,0.0,0.0,1.0,,2005-06
+818,19,agostini alessandro,cagliari,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5778,19,gonzalez mariano nicolas,palermo,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5609,19,gasbarroni andrea,sampdoria,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3415,19,sala luigi,sampdoria,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+1305,19,cardone giuseppe,parma,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+9255,19,rocchi tommaso,lazio,A,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
+885,19,ascoli nicola,empoli,D,4.5,5.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+1315,19,cassetti marco,lecce,D,4.5,5.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+8503,19,ferrante marco,ascoli,A,9.5,6.5,3.0,0.0,0.0,0.0,0.0,,2005-06
+3536,19,stam jaap,milan,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+8159,19,colombo corrado,sampdoria,A,9.5,7.5,0.0,0.0,0.0,0.0,2.0,,2005-06
+8100,19,chiesa enrico,siena,A,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
+881,19,aronica salvatore,messina,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+9287,19,sculli giuseppe,messina,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+8714,19,konan haouliais axel cedr,lecce,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5386,19,filippini antonio,treviso,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5763,19,gobbi massimo,cagliari,C,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+3612,19,terlizzi christian,palermo,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+4523,19,budel alessandro,cagliari,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+4544,19,busce' antonio,empoli,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+3240,19,portanova daniele,siena,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3575,19,stovini lorenzo,lecce,D,3.5,4.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+8302,19,di canio paolo,lazio,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3306,19,raggi andrea,empoli,D,4.5,5.5,0.0,-1.0,0.0,0.0,0.0,,2005-06
+5829,19,grella vincenzo,parma,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5360,19,figo luis,inter,C,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3636,19,thuram lilian ulien,juventus,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5844,19,guana roberto,ascoli,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+3662,19,tosto vittorio,ascoli,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+248,19,chimenti antonio,cagliari,P,3.5,6.5,-3.0,0.0,0.0,0.0,0.0,,2005-06
+4385,19,bonanni massimo,palermo,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+8264,19,del piero alessandro,juventus,A,10.5,7.5,3.0,0.0,0.0,0.0,0.0,,2005-06
+8737,19,kutuzov vitalii,sampdoria,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5710,19,giunti federico,chievo,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+9335,19,shevchenko andriy,milan,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+8419,19,di natale antonio,udinese,A,9.0,6.0,3.0,0.0,0.0,0.0,0.0,,2005-06
+1184,19,canini michele,cagliari,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+5877,19,guigou gianni,treviso,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5420,19,filippini emanuele,treviso,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5904,19,jimenez luis,fiorentina,C,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+5688,19,giampa' domenico,messina,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+8242,19,cruz julio ricardo,inter,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+244,19,cejas cristian sebastian,fiorentina,P,5.5,6.5,-1.0,0.0,0.0,0.0,0.0,,2005-06
+1053,19,bizera emerson j. b.,cagliari,D,4.5,4.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+1073,19,bonera daniele,parma,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+3055,19,parisi alessandro,messina,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3097,19,pasqual manuel,fiorentina,D,7.5,6.5,0.0,0.0,0.0,0.0,1.0,,2005-06
+7999,19,brienza franco,palermo,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3457,19,schiavi raffaele,lecce,D,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+8029,19,capone andrea,cagliari,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+960,19,barzagli andrea,palermo,D,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+1412,19,chivu cristian,roma,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+2977,19,paci massimo,ascoli,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+8566,19,gilardino alberto,milan,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+4625,19,camoranesi mauro,juventus,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+6163,19,manfredini christian,lazio,C,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+2958,19,oddo massimo,lazio,D,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3520,19,siviglia sebastiano,lazio,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+7976,19,borriello marco,treviso,A,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+5240,19,donati massimo,messina,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6206,19,marchionni marco,parma,C,8.0,7.0,0.0,0.0,0.0,0.0,1.0,,2005-06
+1431,19,coco francesco,livorno,D,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+5473,19,fiore stefano,fiorentina,C,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+1456,19,coda andrea,empoli,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+3460,19,scurto giuseppe,chievo,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+4460,19,brighi matteo,chievo,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+2925,19,nesta alessandro,milan,D,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+9212,19,rigano' christian,empoli,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+8801,19,lucarelli cristiano,livorno,A,10.5,6.5,3.0,0.0,0.0,0.0,1.0,,2005-06
+8594,19,godeas denis,palermo,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3754,19,vanigli richard,empoli,D,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+763,19,zancope' adriano,treviso,P,4.0,6.0,-2.0,0.0,0.0,0.0,0.0,,2005-06
+7903,19,bogdani erjon,siena,A,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3475,19,sensini roberto nestor,udinese,D,5.0,5.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+1515,19,comotto gianluca,ascoli,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6246,19,mauri stefano,udinese,C,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+928,19,balzaretti federico,juventus,D,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+327,19,de sanctis morgan,udinese,P,3.5,5.5,-2.0,0.0,0.0,0.0,0.0,,2005-06
+5537,19,foggia pasquale,ascoli,C,8.0,7.0,0.0,0.0,0.0,0.0,1.0,,2005-06
+8371,19,di napoli arturo,messina,A,5.5,5.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+46,19,amelia marco,livorno,P,5.0,7.0,-2.0,0.0,0.0,0.0,0.0,,2005-06
+8772,19,locatelli tomas,siena,A,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
+3717,19,ujfalusi tomas,fiorentina,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+3026,19,panucci christian,roma,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+9416,19,tavano francesco,empoli,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+790,19,accardi pietro,palermo,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5269,19,emerson ferreira,juventus,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+5566,19,franceschini daniele,chievo,C,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+203,19,buffon gianluigi,juventus,P,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6053,19,ledesma cristian,lecce,C,7.0,7.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+9566,19,vucinic mirko,lecce,A,5.0,5.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+6112,19,luciano siqueira,chievo,C,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06
+3447,19,samuel walter,inter,D,6.0,6.0,0.0,0.0,0.0,0.0,0.0,,2005-06
+983,19,bega francesco,cagliari,D,5.5,6.0,0.0,-0.5,0.0,0.0,0.0,,2005-06
+6071,19,liverani fabio,lazio,C,6.0,6.5,0.0,-0.5,0.0,0.0,0.0,,2005-06
+6127,19,mancini amantino,roma,C,10.0,7.0,3.0,0.0,0.0,0.0,0.0,,2005-06
+1365,19,castellini marcello,sampdoria,D,6.5,6.5,0.0,0.0,0.0,0.0,0.0,,2005-06

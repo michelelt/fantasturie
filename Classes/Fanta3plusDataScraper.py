@@ -3,6 +3,8 @@ import pandas as pd
 import re
 import numpy as np
 from .DataScraper import DataScraper
+from collections import defaultdict
+import json
 
 
 class Fanta3plusDataScraper(DataScraper):
@@ -11,6 +13,7 @@ class Fanta3plusDataScraper(DataScraper):
         DataScraper.__init__(self, config)
         self.header = config['header']
         self.data_types = config['data_types']
+        self.config = config
 
 
     def parse_html(self, yyss):
@@ -38,19 +41,28 @@ class Fanta3plusDataScraper(DataScraper):
         df = df.replace({'S.V.': np.nan, 'SV':np.nan})
         df = df.astype(self.data_types)
 
+        df.giocatore = df.giocatore.str.lower().str.strip()
+        df.squadra = df.squadra.str.lower().str.strip()
+        df.ruolo = df.ruolo.str.strip()
+
         df = df.drop('?', axis=1)
         df = df[df.giocatore != 'nan']
         df['yyss'] = yyss
 
         if 'numero' in df.columns:
             print('\t-->', yyss)
+
+
         for dots in df.dots.unique():
+
             df[df.dots == dots]\
                 .to_csv(self.data_root\
                 .joinpath(yyss)\
                 .joinpath(str(dots))\
                 .joinpath('%s_dots_%d.csv'%(yyss,dots)),
                     index=True)
+
+
 
 
 
@@ -63,12 +75,21 @@ class Fanta3plusDataScraper(DataScraper):
         print('Start data download %s' % self.journal)
         for yyss in self.yyss:
 
-            if yyss != self.current_yyss:
-                self.get_request(self.url % ( self.standardize_yyss(yyss)) )
-                self.parse_html(yyss)
+            # if yyss != self.current_yyss:
+            self.get_request(self.url % ( self.standardize_yyss(yyss)) )
+            self.parse_html(yyss)
 
             print('\t%s - %s downloaded' % (self.journal, yyss))
         print('End data download %s' % self.journal)
         print()
 
         self.make_one_file_from_raw_data()
+
+        df = pd.read_csv(self.data_root.joinpath(self.journal + '_stats_per_dots.csv'))
+        df['nome_giocatore']=df['giocatore']
+
+        self.table_2_json(
+            df,
+            ['yyss', 'dots', 'giocatore'],
+            self.data_root.joinpath(self.journal + '_stats_per_dots.json')
+        )

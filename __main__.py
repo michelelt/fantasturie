@@ -9,7 +9,7 @@ import shutil
 if __name__== '__main__':
 
     print('Download Historic Data\n')
-    shutil.rmtree('./data/')
+    # shutil.rmtree('./data/')
     
     
     # GazzettaDataScraper(gazzetta_config).download_data()
@@ -18,4 +18,3 @@ if __name__== '__main__':
     Fanta3plusDataScraper(tuttosport_config).download_data()
     Fanta3plusDataScraper(fantagazzetta_config).download_data()
     Fanta3plusDataScraper(gazzetta3plus_config).download_data()
-
