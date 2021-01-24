@@ -2,6 +2,7 @@ import requests
 from Classes import Setup
 from collections import defaultdict
 import json
+from datetime import date
 
 
 class DataScraper:
@@ -13,7 +14,6 @@ class DataScraper:
         self.http_header = config['http_header']
         self.yyss = config['yyss']
         self.days_of_the_season = config['days_of_the_season']
-        self.current_yyss = self.yyss[-1]
         self.file_header = config['file_header']
         self.journal = config['journal']
 
@@ -24,9 +24,22 @@ class DataScraper:
         }
         Setup.Setup(data_structure_config)
 
+        self.current_yyss = self.compute_current_yyss()
+
+    def compute_current_yyss(self):
+        current_date = date.today()
+        if current_date.month >= 8:
+            first = str(current_date.year)
+            second= str(current_date.year+1)[2:4]
+        else:
+            first = str(current_date.year-1)
+            second= str(current_date.year)[2:4]
+        return first+'-'+second
 
     def get_request(self, url):
         self.html = requests.get(url, headers=self.http_header).text
+
+
 
     def parse_html(self):
         pass
@@ -74,7 +87,10 @@ class DataScraper:
 
         f1.close()
 
-
+    def find_string_between(self, s, start, end):
+        i_start = s.find(start)
+        i_end = s.find(end, i_start + 1)
+        return s[i_start + len(start): i_end]
 
     def download_data(self):
         pass
