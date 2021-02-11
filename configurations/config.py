@@ -29,7 +29,6 @@ gazzetta_config={
 corriere_dello_sport_config ={
     'data_root' : data_structure_config['data_root'],
     'url'        : 'https://www.fantapiu3.com/fantacalcio-storico-voti-corriere-sport-%s.php',
-    # 'url_current': 'https://www.fantapiu3.com/fantacalcio-voti-corriere-sport-serie-a.php',
     'http_header' : {
         'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1'
     },
@@ -46,16 +45,8 @@ tuttosport_config ={
     'http_header' : {
         'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1'
     },
-    'yyss': ['2016-17', '2017-18', '2018-19', '2019-20', '2020-21'],
     'days_of_the_season': range(1, 39),
-    'data_types' : {
-        'dots':int,'Gio':str, 'Sq':str, '?':str, 'Ru':str, 'FV':float,
-        'V':float, 'GF/GD':float, 'Amm':float, 'Esp':float, 'RP/RS':float,
-        'Aut':float, 'PI':float, 'Ass':float, 'GSR':float, 'ADF':float
-    },
-    'header': ['dots','giocatore', 'squadra', '?', 'ruolo', 'fantavoto', 'voto', 'gol_fatti_subiti', 'ammonizioni', 'espulsioni',
-               'rigori_parati_segnati', 'autogol', 'portiere_imbattuto'],
-    'file_header': 'code,dots,giocatore,squadra,ruolo,fantavoto,voto,gol_fatti_subiti,ammonizioni,espulsioni,rigori_parati_segnati,autogol,portiere_imbattuto,yyss\n',
+    'yyss': ['2016-17', '2017-18', '2018-19', '2019-20', '2020-21'],
     'journal': 'tuttosport'
 
 }
@@ -68,14 +59,6 @@ fantagazzetta_config ={
     },
     'yyss': ['2018-19', '2019-20', '2020-21'],
     'days_of_the_season': range(1, 39),
-    'data_types' : {
-        'dots':int,'giocatore':str, 'squadra':str, '?':str, 'ruolo':str, 'fantavoto':float,
-        'voto':float, 'gol_fatti_subiti':float, 'ammonizioni':float, 'espulsioni':float, 'rigori_parati_segnati':float,
-        'autogol':float, 'portiere_imbattuto':float
-    },
-    'header': ['dots','giocatore', 'squadra', '?', 'ruolo', 'fantavoto', 'voto', 'gol_fatti_subiti', 'ammonizioni', 'espulsioni',
-               'rigori_parati_segnati', 'autogol', 'portiere_imbattuto'],
-    'file_header': 'code,dots,giocatore,squadra,ruolo,fantavoto,voto,gol_fatti_subiti,ammonizioni,espulsioni,rigori_parati_segnati,autogol,portiere_imbattuto,yyss\n',
     'journal': 'fantagazzetta'
 
 }
@@ -89,30 +72,24 @@ gazzetta3plus_config ={
     'yyss': ['2005-06', '2006-07', '2007-08', '2008-09', '2009-10', '2010-11', '2011-12', '2012-13',
              '2013-14', '2014-15', '2015-16', '2016-17', '2017-18', '2018-19', '2019-20', '2020-21'],
     'days_of_the_season': range(1, 39),
-    'data_types' : {
-        'dots':int,'giocatore':str, 'squadra':str, '?':str, 'ruolo':str, 'fantavoto':float,
-        'voto':float, 'gol_fatti_subiti':float, 'ammonizioni':float, 'espulsioni':float, 'rigori_parati_segnati':float,
-        'autogol':float, 'portiere_imbattuto':float
-    },
-    'header': ['dots','giocatore', 'squadra', '?', 'ruolo', 'fantavoto', 'voto', 'gol_fatti_subiti', 'ammonizioni', 'espulsioni',
-               'rigori_parati_segnati', 'autogol', 'portiere_imbattuto'],
-    'file_header': 'code,dots,giocatore,squadra,ruolo,fantavoto,voto,gol_fatti_subiti,ammonizioni,espulsioni,rigori_parati_segnati,autogol,portiere_imbattuto,yyss\n',
     'journal': 'gazzetta_dello_sport_3plus'
-
 }
 
 
 data_std_fantapiu ={
     'data_types': {
-        'dots': int, 'Gio': str, 'Sq': str, 'Ru': str, 'FV': float,
-        'V': float, 'GF/GS': float, 'Amm': float, 'Esp': float, 'RP/RS': float,
-        'Aut': float, 'PI': float, 'Ass':float, 'GSR':float, 'Adf':float, 'ASS':float, 'G':float, 'ADF':float
+        'dots': int, 'giocatore': str, 'squadra': str, 'ruolo': str, 'fantavoto': float,
+        'voto': float, 'gol_fatti_subiti': float, 'ammonizioni': float, 'espulsioni': float,
+        'rigore_parato_segnato': float, 'autogol': float, 'portiere_imbattuto': float,
+        'assist':float, 'gol_su_rigore':float, 'assist_da_fermo':float, 'gol_fatto_subito':float,
     },
-    'column_names':{
-            'dots': 'dots', 'Gio': 'giocatore', 'Sq': 'squadra', 'Ru': 'ruolo', 'FV': 'fantavoto',
-            'V': 'voto', 'GF/GS': 'gol_fatti_subiti', 'Amm': 'ammonizioni', 'Esp': 'espulsioni',
-            'RP/RS': 'rigore_parato_segnato', 'Aut': 'autogol', 'PI': 'portiere_imbattuto', 'GSR':'gol_su_rigore',
-            'Ass':'assist', 'Adf':'assist_su_rigore', 'ASS':'ass', 'G':'gol_fatto_subito', 'ADF':'assist_da_fermo'
+
+
+    'column_names_lower': {
+        'dots': 'dots', 'gio': 'giocatore', 'sq': 'squadra', 'ru': 'ruolo', 'fv': 'fantavoto',
+        'v': 'voto', 'gf/gs': 'gol_fatti_subiti', 'amm': 'ammonizioni', 'esp': 'espulsioni',
+        'rp/rs': 'rigore_parato_segnato', 'aut': 'autogol', 'pi': 'portiere_imbattuto', 'gsr': 'gol_su_rigore',
+        'ass': 'assist', 'adf': 'assist_da_fermo', 'g': 'gol_fatto_subito'
     }
 
 }

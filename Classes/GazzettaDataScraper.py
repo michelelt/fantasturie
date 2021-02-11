@@ -75,7 +75,7 @@ class GazzettaDataScraper(DataScraper):
 
     def download_data(self):
 
-        print('Start data download %s' % self.journal)
+        print('Start data_ok download %s' % self.journal)
         for yyss in self.yyss:
             if yyss != self.current_yyss:
                 for dots in self.days_of_the_season:
@@ -84,7 +84,7 @@ class GazzettaDataScraper(DataScraper):
                     self.parse_html(yyss, dots)
 
             print('\t%s - %s %d downloaded' % (self.journal, yyss, dots))
-        print('End data download %s' % self.journal)
+        print('End data_ok download %s' % self.journal)
         print()
 
         self.make_one_file_from_raw_data()

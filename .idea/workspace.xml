@@ -19,318 +19,183 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classes/DataScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/DataScraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classes/Fanta3plusDataScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Fanta3plusDataScraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/GazzettaDataScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/GazzettaDataScraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classes/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Player.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classes/Players.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Players.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Classes/Setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Optimizer.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configurations/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/configurations/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/1/2016-17_dots_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/1/2016-17_dots_1.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/10/2016-17_dots_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/10/2016-17_dots_10.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/11/2016-17_dots_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/11/2016-17_dots_11.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/12/2016-17_dots_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/12/2016-17_dots_12.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/13/2016-17_dots_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/13/2016-17_dots_13.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/14/2016-17_dots_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/14/2016-17_dots_14.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/15/2016-17_dots_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/15/2016-17_dots_15.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/16/2016-17_dots_16.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/16/2016-17_dots_16.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/17/2016-17_dots_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/17/2016-17_dots_17.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/18/2016-17_dots_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/18/2016-17_dots_18.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/19/2016-17_dots_19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/19/2016-17_dots_19.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/2/2016-17_dots_2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/2/2016-17_dots_2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/20/2016-17_dots_20.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/20/2016-17_dots_20.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/21/2016-17_dots_21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/21/2016-17_dots_21.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/22/2016-17_dots_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/22/2016-17_dots_22.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/23/2016-17_dots_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/23/2016-17_dots_23.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/24/2016-17_dots_24.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/24/2016-17_dots_24.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/25/2016-17_dots_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/25/2016-17_dots_25.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/26/2016-17_dots_26.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/26/2016-17_dots_26.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/27/2016-17_dots_27.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/27/2016-17_dots_27.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/28/2016-17_dots_28.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/28/2016-17_dots_28.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/29/2016-17_dots_29.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/29/2016-17_dots_29.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/3/2016-17_dots_3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/3/2016-17_dots_3.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/30/2016-17_dots_30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/30/2016-17_dots_30.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/31/2016-17_dots_31.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/31/2016-17_dots_31.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/32/2016-17_dots_32.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/32/2016-17_dots_32.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/33/2016-17_dots_33.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/33/2016-17_dots_33.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/34/2016-17_dots_34.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/34/2016-17_dots_34.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/35/2016-17_dots_35.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/35/2016-17_dots_35.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/36/2016-17_dots_36.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/36/2016-17_dots_36.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/37/2016-17_dots_37.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/37/2016-17_dots_37.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/38/2016-17_dots_38.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/38/2016-17_dots_38.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/4/2016-17_dots_4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/4/2016-17_dots_4.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/5/2016-17_dots_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/5/2016-17_dots_5.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/6/2016-17_dots_6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/6/2016-17_dots_6.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/7/2016-17_dots_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/7/2016-17_dots_7.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/8/2016-17_dots_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/8/2016-17_dots_8.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/9/2016-17_dots_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2016-17/9/2016-17_dots_9.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/1/2017-18_dots_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/1/2017-18_dots_1.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/10/2017-18_dots_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/10/2017-18_dots_10.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/11/2017-18_dots_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/11/2017-18_dots_11.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/12/2017-18_dots_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/12/2017-18_dots_12.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/13/2017-18_dots_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/13/2017-18_dots_13.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/14/2017-18_dots_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/14/2017-18_dots_14.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/15/2017-18_dots_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/15/2017-18_dots_15.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/16/2017-18_dots_16.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/16/2017-18_dots_16.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/17/2017-18_dots_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/17/2017-18_dots_17.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/18/2017-18_dots_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/18/2017-18_dots_18.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/19/2017-18_dots_19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/19/2017-18_dots_19.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/2/2017-18_dots_2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/2/2017-18_dots_2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/20/2017-18_dots_20.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/20/2017-18_dots_20.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/21/2017-18_dots_21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/21/2017-18_dots_21.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/22/2017-18_dots_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/22/2017-18_dots_22.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/23/2017-18_dots_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/23/2017-18_dots_23.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/24/2017-18_dots_24.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/24/2017-18_dots_24.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/25/2017-18_dots_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/25/2017-18_dots_25.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/26/2017-18_dots_26.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/26/2017-18_dots_26.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/27/2017-18_dots_27.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/27/2017-18_dots_27.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/28/2017-18_dots_28.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/28/2017-18_dots_28.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/29/2017-18_dots_29.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/29/2017-18_dots_29.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/3/2017-18_dots_3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/3/2017-18_dots_3.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/30/2017-18_dots_30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/30/2017-18_dots_30.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/31/2017-18_dots_31.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/31/2017-18_dots_31.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/32/2017-18_dots_32.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/32/2017-18_dots_32.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/33/2017-18_dots_33.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/33/2017-18_dots_33.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/34/2017-18_dots_34.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/34/2017-18_dots_34.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/35/2017-18_dots_35.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/35/2017-18_dots_35.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/36/2017-18_dots_36.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/36/2017-18_dots_36.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/37/2017-18_dots_37.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/37/2017-18_dots_37.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/38/2017-18_dots_38.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/38/2017-18_dots_38.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/4/2017-18_dots_4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/4/2017-18_dots_4.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/5/2017-18_dots_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/5/2017-18_dots_5.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/6/2017-18_dots_6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/6/2017-18_dots_6.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/7/2017-18_dots_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/7/2017-18_dots_7.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/8/2017-18_dots_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/8/2017-18_dots_8.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/9/2017-18_dots_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2017-18/9/2017-18_dots_9.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/1/2018-19_dots_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/1/2018-19_dots_1.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/10/2018-19_dots_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/10/2018-19_dots_10.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/11/2018-19_dots_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/11/2018-19_dots_11.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/12/2018-19_dots_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/12/2018-19_dots_12.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/13/2018-19_dots_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/13/2018-19_dots_13.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/14/2018-19_dots_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/14/2018-19_dots_14.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/15/2018-19_dots_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/15/2018-19_dots_15.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/16/2018-19_dots_16.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/16/2018-19_dots_16.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/17/2018-19_dots_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/17/2018-19_dots_17.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/18/2018-19_dots_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/18/2018-19_dots_18.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/19/2018-19_dots_19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/19/2018-19_dots_19.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/2/2018-19_dots_2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/2/2018-19_dots_2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/20/2018-19_dots_20.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/20/2018-19_dots_20.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/21/2018-19_dots_21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/21/2018-19_dots_21.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/22/2018-19_dots_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/22/2018-19_dots_22.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/23/2018-19_dots_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/23/2018-19_dots_23.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/24/2018-19_dots_24.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/24/2018-19_dots_24.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/25/2018-19_dots_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/25/2018-19_dots_25.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/26/2018-19_dots_26.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/26/2018-19_dots_26.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/27/2018-19_dots_27.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/27/2018-19_dots_27.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/28/2018-19_dots_28.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/28/2018-19_dots_28.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/29/2018-19_dots_29.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/29/2018-19_dots_29.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/3/2018-19_dots_3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/3/2018-19_dots_3.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/30/2018-19_dots_30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/30/2018-19_dots_30.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/31/2018-19_dots_31.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/31/2018-19_dots_31.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/32/2018-19_dots_32.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/32/2018-19_dots_32.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/33/2018-19_dots_33.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/33/2018-19_dots_33.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/34/2018-19_dots_34.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/34/2018-19_dots_34.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/35/2018-19_dots_35.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/35/2018-19_dots_35.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/36/2018-19_dots_36.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/36/2018-19_dots_36.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/37/2018-19_dots_37.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/37/2018-19_dots_37.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/38/2018-19_dots_38.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/38/2018-19_dots_38.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/4/2018-19_dots_4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/4/2018-19_dots_4.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/5/2018-19_dots_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/5/2018-19_dots_5.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/6/2018-19_dots_6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/6/2018-19_dots_6.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/7/2018-19_dots_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/7/2018-19_dots_7.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/8/2018-19_dots_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/8/2018-19_dots_8.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/9/2018-19_dots_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2018-19/9/2018-19_dots_9.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/1/2019-20_dots_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/1/2019-20_dots_1.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/10/2019-20_dots_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/10/2019-20_dots_10.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/11/2019-20_dots_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/11/2019-20_dots_11.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/12/2019-20_dots_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/12/2019-20_dots_12.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/13/2019-20_dots_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/13/2019-20_dots_13.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/14/2019-20_dots_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/14/2019-20_dots_14.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/15/2019-20_dots_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/15/2019-20_dots_15.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/16/2019-20_dots_16.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/16/2019-20_dots_16.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/17/2019-20_dots_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/17/2019-20_dots_17.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/18/2019-20_dots_18.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/18/2019-20_dots_18.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/19/2019-20_dots_19.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/19/2019-20_dots_19.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/2/2019-20_dots_2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/2/2019-20_dots_2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/20/2019-20_dots_20.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/20/2019-20_dots_20.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/21/2019-20_dots_21.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/21/2019-20_dots_21.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/22/2019-20_dots_22.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/22/2019-20_dots_22.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/23/2019-20_dots_23.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/23/2019-20_dots_23.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/24/2019-20_dots_24.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/24/2019-20_dots_24.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/25/2019-20_dots_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/25/2019-20_dots_25.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/26/2019-20_dots_26.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/26/2019-20_dots_26.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/27/2019-20_dots_27.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/27/2019-20_dots_27.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/28/2019-20_dots_28.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/28/2019-20_dots_28.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/29/2019-20_dots_29.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/29/2019-20_dots_29.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/3/2019-20_dots_3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/3/2019-20_dots_3.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/30/2019-20_dots_30.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/30/2019-20_dots_30.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/31/2019-20_dots_31.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/31/2019-20_dots_31.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/32/2019-20_dots_32.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/32/2019-20_dots_32.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/33/2019-20_dots_33.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/33/2019-20_dots_33.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/34/2019-20_dots_34.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/34/2019-20_dots_34.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/35/2019-20_dots_35.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/35/2019-20_dots_35.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/36/2019-20_dots_36.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/36/2019-20_dots_36.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/37/2019-20_dots_37.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/37/2019-20_dots_37.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/38/2019-20_dots_38.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/38/2019-20_dots_38.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/4/2019-20_dots_4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/4/2019-20_dots_4.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/5/2019-20_dots_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/5/2019-20_dots_5.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/6/2019-20_dots_6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/6/2019-20_dots_6.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/7/2019-20_dots_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/7/2019-20_dots_7.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/8/2019-20_dots_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/8/2019-20_dots_8.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/9/2019-20_dots_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2019-20/9/2019-20_dots_9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/corriere_dello_sport_stats_per_dots.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/corriere_dello_sport_stats_per_dots.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/1/2020-21_dots_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/10/2020-21_dots_10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/11/2020-21_dots_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/12/2020-21_dots_12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/13/2020-21_dots_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/14/2020-21_dots_14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/15/2020-21_dots_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/16/2020-21_dots_16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/17/2020-21_dots_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/18/2020-21_dots_18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/19/2020-21_dots_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/2/2020-21_dots_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/3/2020-21_dots_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/4/2020-21_dots_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/5/2020-21_dots_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/6/2020-21_dots_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/7/2020-21_dots_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/8/2020-21_dots_8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/corriere_dello_sport/2020-21/9/2020-21_dots_9.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2018-19/1/2018-19_dots_1.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2018-19/10/2018-19_dots_10.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2018-19/11/2018-19_dots_11.csv" beforeDir="false" />
@@ -407,8 +272,25 @@
       <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2019-20/7/2019-20_dots_7.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2019-20/8/2019-20_dots_8.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2019-20/9/2019-20_dots_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/fantagazzetta_stats_per_dots.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/fantagazzetta_stats_per_dots.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/1/2020-21_dots_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/10/2020-21_dots_10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/11/2020-21_dots_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/12/2020-21_dots_12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/13/2020-21_dots_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/14/2020-21_dots_14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/15/2020-21_dots_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/16/2020-21_dots_16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/17/2020-21_dots_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/18/2020-21_dots_18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/19/2020-21_dots_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/2/2020-21_dots_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/3/2020-21_dots_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/4/2020-21_dots_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/5/2020-21_dots_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/6/2020-21_dots_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/7/2020-21_dots_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/8/2020-21_dots_8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fantagazzetta/2020-21/9/2020-21_dots_9.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2005-06/1/2005-06_dots_1.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2005-06/10/2005-06_dots_10.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2005-06/11/2005-06_dots_11.csv" beforeDir="false" />
@@ -979,8 +861,25 @@
       <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2019-20/7/2019-20_dots_7.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2019-20/8/2019-20_dots_8.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2019-20/9/2019-20_dots_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/gazzetta_dello_sport_3plus_stats_per_dots.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/gazzetta_dello_sport_3plus_stats_per_dots.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/1/2020-21_dots_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/10/2020-21_dots_10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/11/2020-21_dots_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/12/2020-21_dots_12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/13/2020-21_dots_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/14/2020-21_dots_14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/15/2020-21_dots_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/16/2020-21_dots_16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/17/2020-21_dots_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/18/2020-21_dots_18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/19/2020-21_dots_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/2/2020-21_dots_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/3/2020-21_dots_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/4/2020-21_dots_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/5/2020-21_dots_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/6/2020-21_dots_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/7/2020-21_dots_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/8/2020-21_dots_8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gazzetta_dello_sport_3plus/2020-21/9/2020-21_dots_9.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/tuttosport/2016-17/1/2016-17_dots_1.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/tuttosport/2016-17/10/2016-17_dots_10.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/tuttosport/2016-17/11/2016-17_dots_11.csv" beforeDir="false" />
@@ -1133,8 +1032,25 @@
       <change beforePath="$PROJECT_DIR$/data/tuttosport/2019-20/7/2019-20_dots_7.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/tuttosport/2019-20/8/2019-20_dots_8.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/tuttosport/2019-20/9/2019-20_dots_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tuttosport/tuttosport_stats_per_dots.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tuttosport/tuttosport_stats_per_dots.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/1/2020-21_dots_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/10/2020-21_dots_10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/11/2020-21_dots_11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/12/2020-21_dots_12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/13/2020-21_dots_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/14/2020-21_dots_14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/15/2020-21_dots_15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/16/2020-21_dots_16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/17/2020-21_dots_17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/18/2020-21_dots_18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/19/2020-21_dots_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/2/2020-21_dots_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/3/2020-21_dots_3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/4/2020-21_dots_4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/5/2020-21_dots_5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/6/2020-21_dots_6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/7/2020-21_dots_7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/8/2020-21_dots_8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tuttosport/2020-21/9/2020-21_dots_9.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PHD THESIS/TesiPhDDegliAltri/giordano_tesi.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PHD THESIS/TesiPhDDegliAltri/morichetta_tesi.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PHD THESIS/TesiPhDDegliAltri/trevisan_tesi.pdf" beforeDir="false" />
@@ -1635,7 +1551,8 @@
       <workItem from="1611429215661" duration="296000" />
       <workItem from="1611429848859" duration="19152000" />
       <workItem from="1611493729876" duration="32000" />
-      <workItem from="1611493791025" duration="2250000" />
+      <workItem from="1611493791025" duration="3549000" />
+      <workItem from="1613073073302" duration="4683000" />
     </task>
     <servers />
   </component>

@@ -8,13 +8,12 @@ from datetime import date
 class DataScraper:
 
     def __init__(self, config):
-        super().__init__()
         self.data_root = config['data_root'].joinpath(config['journal'])
         self.url = config['url']
         self.http_header = config['http_header']
         self.yyss = config['yyss']
         self.days_of_the_season = config['days_of_the_season']
-        self.file_header = config['file_header']
+        # self.file_header = config['file_header']
         self.journal = config['journal']
 
         data_structure_config = {
@@ -22,8 +21,8 @@ class DataScraper:
             'yyss': self.yyss,
             'journals': [self.journal]
         }
-        Setup.Setup(data_structure_config)
 
+        Setup.Setupper(data_structure_config)
         self.current_yyss = self.compute_current_yyss()
 
     def compute_current_yyss(self):
@@ -59,11 +58,11 @@ class DataScraper:
                 else:
                     nested = nested[key]
 
-        with open(output_filename, "w") as outfile:
-            json.dump(results, outfile)
+        if len (str(output_filename)) > 0:
+            with open(output_filename, "w") as outfile:
+                json.dump(results, outfile)
 
-
-
+        return json.dumps(results)
 
 
     def make_one_file_from_raw_data(self):
@@ -94,3 +93,7 @@ class DataScraper:
 
     def download_data(self):
         pass
+
+
+
+
