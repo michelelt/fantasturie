@@ -1,5 +1,4 @@
 import requests
-from Classes import Setup
 from collections import defaultdict
 import json
 from datetime import date
@@ -22,7 +21,6 @@ class DataScraper:
             'journals': [self.journal]
         }
 
-        Setup.Setupper(data_structure_config)
         self.current_yyss = self.compute_current_yyss()
 
     def compute_current_yyss(self):
@@ -39,9 +37,20 @@ class DataScraper:
         self.html = requests.get(url, headers=self.http_header).text
 
 
-
     def parse_html(self):
         pass
+
+    def export_to_csv(self, df, yyss):
+
+        for dots in df.dots.unique():
+            df[df.dots == dots]\
+                .to_csv(self.data_root \
+                    .joinpath(yyss) \
+                    .joinpath(str(int(dots))) \
+                    .joinpath('%s_dots_%d.csv' % (yyss, int(dots)) ),
+                index=True)
+
+        return
 
     def table_2_json(self, df, nesting_fields, output_filename):
 
@@ -93,6 +102,13 @@ class DataScraper:
 
     def download_data(self):
         pass
+
+    def dump_locally(self):
+        pass
+
+    def dump_on_firebase(self):
+        pass
+
 
 
 

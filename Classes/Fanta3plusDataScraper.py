@@ -3,7 +3,7 @@ import pandas as pd
 import re
 import numpy as np
 from .DataScraper import DataScraper
-from collections import defaultdict
+from Classes import Setup
 import json
 
 
@@ -13,8 +13,8 @@ class Fanta3plusDataScraper(DataScraper):
         super().__init__(config)
         self.config = config
         self.config_std = config_std
-
-
+        self.all_data = pd.DataFrame()
+        self.last_day = pd.DataFrame()
 
 
     def find_header_from_html(self, html):
@@ -106,83 +106,117 @@ class Fanta3plusDataScraper(DataScraper):
         return yyss[0:5] + '20' + yyss[5:]
 
 
-    def download_data(self, store):
+    def download_data(self):
 
         print('Start data_ok download %s' % self.journal)
+        dfs = []
         for yyss in self.yyss:
 
             if yyss != self.current_yyss:
                 url = self.url % ( self.standardize_yyss(yyss))
                 self.get_request(url)
-                df = self.parse_html(yyss)
+                dfs.append(self.parse_html(yyss))
 
             else:
                 url = self.url.replace('-storico', '') % 'serie-a'
                 self.get_request(url)
-                df = self.parse_html(yyss)
+                dfs.append(self.parse_html(yyss))
 
-
-            if store == 'csv':
-                self.export_to_csv(df, yyss)
-            elif store == 'json':
-                self.export_to_json(df)
 
             print('\t%s - %s downloaded' % (self.journal, yyss))
         print('End data_ok download %s' % self.journal)
         print()
-        return
+        self.all_data = pd.concat(dfs, axis=0)
+        return self.all_data
 
-    def download_last_day(self, store):
+    def download_last_day(self):
         url = self.url.replace('-storico', '') % 'serie-a'
         self.get_request(url)
         df = self.parse_html(self.current_yyss)
 
         df = df[df.dots == df.dots.max()]
 
-        if store == 'csv':
-            ouut = self.export_to_csv(df, self.current_yyss)
-        elif store == 'json':
-            out = self.export_to_json(df, is_last_day=True)
-
         print('%s - %s LAST DAY downloaded' % (self.journal, self.current_yyss))
-        return out
-
-
-    def export_to_csv(self, df, yyss):
-
-        for dots in df.dots.unique():
-            df[df.dots == dots]\
-                .to_csv(self.data_root \
-                    .joinpath(yyss) \
-                    .joinpath(str(int(dots))) \
-                    .joinpath('%s_dots_%d.csv' % (yyss, int(dots)) ),
-                index=True)
-
-        return
-
-
-    def export_to_json(self, df, is_last_day=False):
-
-        if is_last_day == False:
-            path = self.data_root.joinpath(self.journal + '_stats_per_dots.json')
-        else:
-            dots = int(df.dots.max())
-            path = self.data_root\
-                .joinpath(self.current_yyss)\
-                .joinpath(str(dots))\
-                .joinpath('%s_dots_%d.json' % (self.current_yyss, dots ))
-
-        df['nome_giocatore'] = df['giocatore']
-        return self.table_2_json(
-            df,
-            ['yyss', 'dots', 'giocatore'],
-             path
-        )
-
+        self.last_day=df
+        return df
 
     def standardize_field(self, field):
 
         return self.config_std['column_names_lower'][field.lower()]
+
+
+    def dump_locally(self):
+
+        if len(self.all_data) > 0:
+
+            Setup.Setupper(self.config, self.all_data.yyss.unique(), self.journal)
+            for yyss in self.all_data.yyss.unique():
+                tmp = self.all_data[self.all_data.yyss == yyss]
+                self.export_to_csv(tmp,yyss)
+
+                for dots in tmp.dots.unique():
+                    self.table_2_json(
+                        tmp[tmp.dots==dots],
+                        ['yyss', 'dots', 'giocatore'],
+                        self.data_root \
+                            .joinpath(yyss)\
+                            .joinpath(str(dots))\
+                            .joinpath('%s_dots_%d.json' % (yyss, dots ))
+                    )
+
+
+            self.all_data.to_csv(self.data_root.joinpath(self.journal + '_stats_per_dots.csv'))
+            self.table_2_json(self.all_data,
+                              ['yyss', 'dots', 'giocatore'],
+                              self.data_root.joinpath(self.journal + '_stats_per_dots.json')
+            )
+
+
+        if len(self.last_day) > 0:
+
+            Setup.Setupper(self.config, self.last_day.yyss.unique(), self.journal)
+            self.export_to_csv(
+                self.last_day,
+                self.current_yyss
+            )
+
+            dots = int(self.last_day.dots.max())
+            self.table_2_json(
+                self.last_day,
+                ['yyss', 'dots', 'giocatore'],
+                self.data_root \
+                    .joinpath(self.current_yyss) \
+                    .joinpath(str(dots)) \
+                    .joinpath('%s_dots_%d.json' % (self.current_yyss, dots))
+            )
+        return
+
+
+    def dump_on_firebase(self):
+        json_str_all_data = ""
+        json_str_last_day = ""
+        if len(self.all_data) > 0:
+            json_str_all_data = self.table_2_json(
+                self.all_data,
+                ['yyss', 'dots', 'giocatore'],
+                ""
+            )
+
+        if len(self.last_day) > 0:
+            json_str_last_day = self.table_2_json(
+                self.last_day,
+                ['yyss', 'dots', 'giocatore'],
+                ""
+            )
+        return json_str_all_data, json_str_last_day
+
+
+
+
+
+
+
+
 
 
 

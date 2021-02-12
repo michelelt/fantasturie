@@ -12,24 +12,33 @@ import shutil
 if __name__== '__main__':
 
     print('Download Historic Data\n')
-    try:
-        shutil.rmtree(data_structure_config['data_root'])
-    except FileNotFoundError:
-        os.mkdir(data_structure_config['data_root'])
-    #
+    # try:
+    #     shutil.rmtree(data_structure_config['data_root'])
+    # except FileNotFoundError:
+    #     os.mkdir(data_structure_config['data_root'])
     
 
-    s1 = Fanta3plusDataScraper(corriere_dello_sport_config, data_std_fantapiu)
-    # s1.download_data(store='json')
-    last_day=s1.download_last_day(store='json')
+    s = Fanta3plusDataScraper(corriere_dello_sport_config, data_std_fantapiu)
+    s.download_data()
+    s.dump_locally()
+    # s.download_last_day()
+    # s.dump_on_firebase()
 
+    s = Fanta3plusDataScraper(tuttosport_config, data_std_fantapiu)
+    s.download_data()
+    s.dump_locally()
+    # s.download_last_day()
+    # s.dump_on  _firebase()
 
-    # Fanta3plusDataScraper(tuttosport_config, data_std_fantapiu).download_data()
-    # Fanta3plusDataScraper(tuttosport_config).download_data_last_day()
+    s = Fanta3plusDataScraper(fantagazzetta_config, data_std_fantapiu)
+    s.download_data()
+    s.dump_locally()
+    # s.download_last_day()
+    # s.dump_on_firebase()
 
-    # Fanta3plusDataScraper(fantagazzetta_config, data_std_fantapiu).download_data()
-    # Fanta3plusDataScraper(tuttosport_config).download_data_last_day()
-
-    # Fanta3plusDataScraper(gazzetta3plus_config, data_std_fantapiu).download_data()
-    # Fanta3plusDataScraper(tuttosport_config).download_data_last_day()
+    s = Fanta3plusDataScraper(gazzetta3plus_config, data_std_fantapiu)
+    s.download_data()
+    s.dump_locally()
+    # s.download_last_day()
+    # s.dump_on_firebase()
 
